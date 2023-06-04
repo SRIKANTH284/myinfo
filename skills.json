@@ -1,11 +1,11 @@
 [
     {
-        "name": "Sql",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/sql-server-icon.svg"
+        "name": "mysql",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     },
     {
-        "name": "GCP",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
+        "name": "Google Cloud",
+        "icon": "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
     },
     {
         "name": "HTML5",
@@ -21,15 +21,15 @@
     },
     {
         "name": "Python",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/python-programming-language-icon.svg"
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     },
     {
-        "name": "OpenAi API",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg"
+        "name": "Linux",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     },
     {
         "name": "Tensorflow",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/google-tensorflow-icon.svg"
+        "icon": "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
     },
     {
         "name": "Docker",
