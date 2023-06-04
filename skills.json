@@ -33,11 +33,11 @@
     },
     {
         "name": "Docker",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/docker-icon.svg"
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     },
     {
         "name": "Aws",
-        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/aws-icon.svg"
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     },
     {
         "name": "Git VCS",
