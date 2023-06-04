@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sql",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/sql-server-icon.svg"
+    },
+    {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/python-programming-language-icon.svg"
+    },
+    {
+        "name": "OpenAi API",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/google-tensorflow-icon.svg"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/docker-icon.svg"
+    },
+    {
+        "name": "Aws",
+        "icon": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/aws-icon.svg"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }  
+]
