@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Data Science " , "AWS" , "Front End Devlopment", "Back End Devlopment", "Machine Learning" , "DevOps"],
+        strings: ["Data Science " , "AWS" , "Front End Devlopment", "Back End Devlopment", "Machine Learning"," Artificial Intelligence " , "Cloud DevOps"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
