@@ -395,9 +395,8 @@ header .navbar ul li a:hover{
 .about .row .content .box-container .box p span{
   color:#424fc9;
 }
-  .resumebtn{
+.resumebtn{
   margin-top: 6rem;
-  margin-left: 50px;
 }
 .resumebtn .btn {
   padding: 1.7rem 3rem;
