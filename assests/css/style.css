@@ -408,21 +408,39 @@ header .navbar ul li a:hover{
   box-shadow: 0px 5px 10px rgba(7, 7, 1, 0.6);
   font-family: 'Nunito', sans-serif;
 }
-.resumebtn .btn span {
-  font-weight: 600;
-  font-size: 1.8rem;
-  letter-spacing: 0.1rem;
-}
-.resumebtn .btn i {
-  margin-left: 0.3rem;
-  font-size: 1.2rem;
-  transition: 0.3s;
-}
-.resumebtn .btn:hover{
-  background: #1a047e;
-}
-.resumebtn .btn:hover i {
-  transform: translateX(5px);
+.resumebtn, .researchbtn {
+        margin-top: 6rem;
+        margin-left: 50px;
+    }
+
+    .resumebtn .btn, .researchbtn .btn {
+        padding: 1.7rem 3rem;
+        border-radius: .5em;
+        transition: 0.3s;
+        color: #fff;
+        background: #3a18d2f5;
+        box-shadow: 0px 5px 10px rgba(7, 7, 1, 0.6);
+        font-family: 'Nunito', sans-serif;
+    }
+
+    .resumebtn .btn span, .researchbtn .btn span {
+        font-weight: 600;
+        font-size: 1.8rem;
+        letter-spacing: 0.1rem;
+    }
+
+    .resumebtn .btn i, .researchbtn .btn i {
+        margin-left: 0.3rem;
+        font-size: 1.2rem;
+        transition: 0.3s;
+    }
+
+    .resumebtn .btn:hover, .researchbtn .btn:hover {
+        background: #1a047e;
+    }
+
+    .resumebtn .btn:hover i, .researchbtn .btn:hover i {
+        transform: translateX(5px);
 }
 /* about media queries starts*/
 @media screen and (max-width: 600px){
